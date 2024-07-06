@@ -153,7 +153,7 @@
     </div>
 
     <footer>
-        <p>Call Us: +9985396677 | Office Location: Nampur, Baglan</p>
+        <p>Call Us: +91 25235 | Office Location: Nampur, Baglan</p>
         <p>&copy; 2024 NILESH IT - All rights reserved.</p>
     </footer>
 
