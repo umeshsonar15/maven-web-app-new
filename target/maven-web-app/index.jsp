@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> Welcome to Nilesh IT - Software Training Institute Nashik <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Nilesh IT Training Schedules</a>
   
   <h2> Call Us : + 9985396677</h2>
   
